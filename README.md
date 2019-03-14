@@ -7,5 +7,4 @@ Required environment to run project:
 2.	Copy shopeey directory to inside C:\->xampp->htdocs folder.
 3.	Open browser and write http://localhost/shopeey/index.php on Address Bar.
 
-If any problem arise during run this project please contact me I will run the project on ngrok terminal. And I will share you the URL to show my Project.
 
