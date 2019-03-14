@@ -1,5 +1,8 @@
 <!doctype html>
-
+<!--
+The entire project is done using Bootstrap4
+Author: Ashutosh| Date : 14-03-2019
+-->
     <?php
         $title="Add Products";
         require_once './header.php';

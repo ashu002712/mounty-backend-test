@@ -1,8 +1,8 @@
 <!doctype html>
 
-    <?php
+    <?php 
         $title="Welcome to Shopeey";
-        require_once './header.php';
+        require_once './header.php'; 
     ?>
 
       <!--Slider starts-->
@@ -33,6 +33,6 @@
         </a>
       </div>
       <!--Slider ends-->
-    <?php
-        require_once './footer.php';
+    <?php 
+        require_once './footer.php'; 
     ?>
